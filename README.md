@@ -1,1 +1,3 @@
 # HighLowCardGame
+This project was created to create a high low card game.  It consits of three classes.  The Card class, DeckOfCards class, the HighLowGame class, and the HighLowGUI.
+In the Card class, all of the possible cards were created by implementing the possible suits and names of the cards.  The DeckOfCards class greated the full deck in an ArrayList by using for loops to run through the possible suits and card names from the Card class.  The HighLowGame class gave the rules for how to win the game and the HighLowGUI lets the player make a bet and then decide whether or not the next card in the deck will be higher or lower.
